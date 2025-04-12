@@ -19,8 +19,6 @@ In addition to this, we will also be practising using inbuilt methods such as:
 - remove()
 - createElement()
 - appendChild()
-- push()
-- continue
 
 And many more.
 
